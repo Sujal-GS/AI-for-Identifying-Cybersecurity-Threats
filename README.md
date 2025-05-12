@@ -20,6 +20,10 @@ A capstone project built to classify network traffic as benign or malicious usin
 
 Used [CICIDS2017 Dataset](https://www.unb.ca/cic/datasets/ids-2017.html) for real-world network traffic scenarios.
 
+### ⚠️ Important: Please download the CICIDS2017 dataset separately after cloning the repository, as it is essential for running the code successfully.
+
+
+
 ## 📈 Metrics
 
 - Accuracy, Precision, Recall, F1-score
